@@ -1,13 +1,13 @@
 This is repository that contains laboratory works from Kyiv Polytechnic Institute!
 
 
-lab2 -> Input and some mathematic operations \n
-lab3 -> Strings and operations with them\n
-lab4 -> Lists\n
-lab5 -> Dictionaries\n
-lab6 -> OOP - my favorite\n
-lab7 -> Files\n
+lab2 -> Input and some mathematic operations<br>
+lab3 -> Strings and operations with them<br>
+lab4 -> Lists<br>
+lab5 -> Dictionaries<br>
+lab6 -> OOP - my favorite<br>
+lab7 -> Files<br>
 
-Glad to see you there!\n
-My Telegram @dmitriyzt.\n
-My E-mail: dimauuvin@gmail.com\n
+Glad to see you there!<br>
+My Telegram @dmitriyzt.<br>
+My E-mail: dimauuvin@gmail.com<br>
